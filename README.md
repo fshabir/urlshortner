@@ -3,13 +3,13 @@ A sample URL shortner
 
 This is a dockerized app for shortening URLs.
 
-##Requirements:
--> Docker Daemon
--> nodeJs
--> npm
+## Requirements:
+- Docker Daemon
+- nodeJs
+- npm
 
 
-##Steps to run:
+## Steps to run:
 1. Go the project root directory containing the Dockerfile and create a docker container by executing:
 `docker build -t urlshortner:1.0 .`
 
