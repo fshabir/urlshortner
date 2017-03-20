@@ -14,7 +14,7 @@ This is a dockerized app for shortening URLs.
 `docker build -t urlshortner:1.0 .`
 
 2. Start the container
-`docker run -p 3000:3000 urlshortner:1.0`
+`docker run -d -p 3000:3000 urlshortner:1.0`
 
 3. Access the app from browser as following:
 `http://localhost:3000/`
