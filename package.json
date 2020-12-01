@@ -11,7 +11,7 @@
   "dependencies": {
     "boom": "^4.2.0",
     "handlebars": "^4.0.6",
-    "@hapi/hapi": "17.9.1",
+    "@hapi/hapi": ">=18.4.1",
     "hapi-redis": "^6.0.0",
     "joi": "^10.2.2",
     "redis": "^2.7.1",
